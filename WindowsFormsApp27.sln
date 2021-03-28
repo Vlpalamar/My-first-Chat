@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbServer", "..\DbServer\DbServer.csproj", "{1A48EFD8-79EE-4BC8-B906-DC727F15BD83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbLib", "..\ClassLibrary1\DbLib.csproj", "{ED38D77F-720D-4B52-ABF0-4A61AF418DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbClient", "..\ClientDb\DbClient.csproj", "{D0E8406E-271D-4D75-A897-D2CFADFAC256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A48EFD8-79EE-4BC8-B906-DC727F15BD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A48EFD8-79EE-4BC8-B906-DC727F15BD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A48EFD8-79EE-4BC8-B906-DC727F15BD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A48EFD8-79EE-4BC8-B906-DC727F15BD83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED38D77F-720D-4B52-ABF0-4A61AF418DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED38D77F-720D-4B52-ABF0-4A61AF418DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED38D77F-720D-4B52-ABF0-4A61AF418DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED38D77F-720D-4B52-ABF0-4A61AF418DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0E8406E-271D-4D75-A897-D2CFADFAC256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E8406E-271D-4D75-A897-D2CFADFAC256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E8406E-271D-4D75-A897-D2CFADFAC256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E8406E-271D-4D75-A897-D2CFADFAC256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB56FD2D-7507-42BD-B50D-A496D0856C81}
+	EndGlobalSection
+EndGlobal
