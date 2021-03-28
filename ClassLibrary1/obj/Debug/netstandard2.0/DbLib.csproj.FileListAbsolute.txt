@@ -1,0 +1,9 @@
+D:\visual studio\ClassLibrary1\bin\Debug\netstandard2.0\DbLib.deps.json
+D:\visual studio\ClassLibrary1\bin\Debug\netstandard2.0\DbLib.dll
+D:\visual studio\ClassLibrary1\bin\Debug\netstandard2.0\DbLib.pdb
+D:\visual studio\ClassLibrary1\obj\Debug\netstandard2.0\DbLib.csprojAssemblyReference.cache
+D:\visual studio\ClassLibrary1\obj\Debug\netstandard2.0\DbLib.AssemblyInfoInputs.cache
+D:\visual studio\ClassLibrary1\obj\Debug\netstandard2.0\DbLib.AssemblyInfo.cs
+D:\visual studio\ClassLibrary1\obj\Debug\netstandard2.0\DbLib.csproj.CoreCompileInputs.cache
+D:\visual studio\ClassLibrary1\obj\Debug\netstandard2.0\DbLib.dll
+D:\visual studio\ClassLibrary1\obj\Debug\netstandard2.0\DbLib.pdb
